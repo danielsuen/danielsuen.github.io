@@ -23,4 +23,4 @@ My current research interests are primarily in missing data with applications to
 
 Previously, I received my BSc in Statistics and BSc in Electrical Engineering from the University of Florida in 2019.
 
-In my free time, I enjoy reading, painting, and exploring the beautiful Pacific NW.
+In my free time, I enjoy reading, painting (oil and digital), and exploring the beautiful Pacific NW.
