@@ -11,9 +11,9 @@ My research is primarily centered on the methodology of missing data with applic
 
 **Latent variable models applied to Alzheimer's disease data with missing data**
 
-Multivariate bounded discrete data arises in many fields. In the setting of longitudinal dementia studies, such data is collected when individuals complete neuropsychological tests. We outline a modeling and inference procedure that can model the joint distribution conditional on baseline covariates, leveraging previous work on mixtures of experts and latent variable models. Furthermore, we illustrate how the work can be extended when the outcome data is subject to missingness. We apply our model on simulated data and an Alzheimer’s disease data set.
+Multivariate bounded discrete data arises in many fields. In the setting of longitudinal dementia studies, such data is collected when individuals complete neuropsychological tests. We outline a modeling and inference procedure that can model the joint distribution conditional on baseline covariates, leveraging previous work on mixtures of experts and latent class models. Furthermore, we illustrate how the work can be extended when the outcome data is missing at random using a nested EM algorithm. The proposed model can incorporate covariate information, perform imputation and clustering, and infer latent trajectories. We apply our model on simulated data and an Alzheimer's disease data set.
 
-*Preprint forthcoming*
+[Preprint](https://arxiv.org/abs/2310.09384), [R package](https://github.com/danielsuen/mixturebpe)
 
 **Multistage estimators for missing covariates and incomplete outcomes**
 
