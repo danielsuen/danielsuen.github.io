@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 I have previously served as a TA for the following courses in statistics and electrical engineering.  My responsibilities have included leading section/lab, holding office hours, and grading.
