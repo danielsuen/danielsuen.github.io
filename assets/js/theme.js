@@ -71,9 +71,8 @@ let transTheme = () => {
 let initTheme = (theme) => {
   if (theme == null || theme == 'null') {
     const userPref = window.matchMedia;
-    theme = 'light';
-    if (userPref && (userPref('(prefers-color-scheme: dark)').matches || userPref('(max-width: 768px)').matches && false)) {
-        theme = 'dark';
+    if (userPref && (userPref('(prefers-color-scheme: light)').matches || userPref('(max-width: 768px)').matches || true)) {
+        theme = 'light';
     }
   }
 
