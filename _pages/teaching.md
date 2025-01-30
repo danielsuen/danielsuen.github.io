@@ -11,6 +11,8 @@ I have previously served as a TA for the following courses in statistics and ele
 
 **University of Washington**
 
+* STAT 513 Statistical Inference II \(WIN 2025\)
+* STAT 403 Resampling Inference \(SPR 2024\)
 * STAT 311 Elements of Statistical Methods \(AUT 2020, SPR 2021, SUM 2021\)
 * STAT 220 Statistical Reasoning \(AUT 2019 - SUM 2020, WIN 2021\)
 
