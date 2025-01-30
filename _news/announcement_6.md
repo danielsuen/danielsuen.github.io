@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-08 07:59:00-0400
+date: 2024-05-16 07:59:00-0400
 inline: true
 ---
 
-:mortar_board: Successfully passed my PhD General Exam.  I am now a PhD candidate.
+:page_with_curl: Presented a poster on *Mixture of Binomial Product Experts* at the CSSS 25th Anniversary Celebration, Seattle, WA.
