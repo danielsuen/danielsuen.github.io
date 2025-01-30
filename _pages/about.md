@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a PhD candidate in the [Department of Statistics](https://stat.uw.edu/) at the University of Washington, advised by [Professor Yen-Chi Chen](http://faculty.washington.edu/yenchic/).
 
-My current research interests are primarily in missing data with applications to Alzheimer's disease research.  I am also interested in causal inference and nonparametric statistics methods.  I am very grateful to be supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+My current research interests are primarily in missing data with applications to Alzheimer's disease research.  I am also interested in causal inference and nonparametric statistics methods.  I am very grateful to have been supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 Prior to graduate school, I received my BSc in Statistics and BSc in Electrical Engineering from the University of Florida in 2019.
 
