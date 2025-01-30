@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-16 07:59:00-0400
+date: 2023-12-08 07:59:00-0400
 inline: true
 ---
 
-:page_with_curl: Presented a poster on *Mixture of Binomial Product Experts* at the <span style="color:MediumTurquoise">CSSS 25th Anniversary Celebration, Seattle, WA</span>.
+:tada: Successfully passed my PhD General Exam.  I am now a <span style="color:MediumTurquoise">PhD candidate</span>..

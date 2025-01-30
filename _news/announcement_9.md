@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-01-18 15:59:00-0400
+date: 2024-08-05 07:59:00-0400
 inline: true
 ---
 
-:tada: Received an Honorable Mention from the ASA's Mental Health Section for the <span style="color:MediumTurquoise">2025 Student Paper Competition</span> for my work on *Mixture of Binomial Product Experts*.
+:page_with_curl: Presented my work on *Modeling Multivariate Missingness with Tree Graphs* at <span style="color:MediumTurquoise">JSM 2024, Portland, OR</span>.
